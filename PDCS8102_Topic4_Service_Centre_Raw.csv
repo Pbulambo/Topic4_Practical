@@ -1,0 +1,33 @@
+record_id,district,service_type,waiting_minutes,satisfaction,visit_date
+S001,Blantyre,Licensing,15,2,2026-09-02
+S002,Mzuzu,Records,25,3,2026-09-03
+S003,lilongwe ,Registration,34,4,2026-09-04
+S004,MZ,Licensing,45,,2026-09-05
+S005,BLANTYRE,Records,,1,2026-09-06
+S006,Lilongwe,Registration,75,2,2026-09-07
+S007,Blantyre,Licensing,12,3,2026-09-08
+S008,Mzuzu,Records,18,4,2026-09-09
+S009,lilongwe ,Registration,22,5,2026-09-10
+S010,MZ,Licensing,8,1,2026-09-11
+S011,BLANTYRE,Records,15,2,2026-09-12
+S012,Lilongwe,Registration,25,,2026-09-13
+S013,Blantyre,Licensing,34,4,2026-09-14
+S014,Mzuzu,Records,45,5,2026-09-15
+S015,lilongwe ,Registration,60,1,2026-09-16
+S016,MZ,Licensing,300,2,2026-09-17
+S017,BLANTYRE,Records,12,3,2026-09-18
+S018,Lilongwe,Registration,,4,2026-09-19
+S019,Blantyre,Licensing,22,5,2026-09-20
+S020,Mzuzu,Records,8,1,2026-09-21
+S021,lilongwe ,Registration,15,,2026-09-22
+S022,MZ,Licensing,25,3,2026-09-23
+S023,BLANTYRE,Records,34,4,2026-09-24
+S024,Lilongwe,Registration,,5,2026-09-25
+S025,Blantyre,Licensing,60,1,2026-09-26
+S026,Mzuzu,Records,75,2,2026-09-27
+S027,lilongwe ,Registration,-12,3,2026-09-28
+S028,MZ,Licensing,18,4,2026-09-01
+S029,BLANTYRE,Records,22,5,2026-09-02
+S030,Lilongwe,Registration,8,1,2026-09-03
+S007,Blantyre,Licensing,12,3,2026-09-08
+S016,MZ,Licensing,300,2,2026-09-17
